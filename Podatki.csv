@@ -1,4 +1,4 @@
-Aircraft id,Aircraft name,Manufacturer,Country,Category,Role,Engine_type,Engines,WTC,Seats,First_flight,Last_manufactured,Number_built
+Letalo_ID,Ime_letala,Izdelovalec,Drzava_porekla,Kategorija,Vloga,Tip_motorja,Stevilo_motorjev,WTC,Stevilo_sedezev,Leto_prvega_leta,Leto_zadnje_izdelave,Stevilo_zgrajenih
 ___,_undefined,_undefined,_unknown_,_unknown_,_unknown_,_unknown_,?,,,,,
 ___B,_ undefined Balloon,_undefined,_unknown_,Balloon,Balloon,No engine,0,Light,,,,
 ___G,_ undefined Glider,_undefined,_unknown_,Landplane,Glider,No engine,0,Light,,,,
