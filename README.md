@@ -1,4 +1,4 @@
-# Analiza_Podatkov
+# Analiza Podatkov
 Repozitorij vsebuje analizo podatkov o letalih s spletne strani www.aviationfanatic.com in programe, ki so bili za to uporabljeni.
 
 Če želiš samo pogledati analizo odpri datoteko analiza.ipynb v programu Visual Code oz. drugemu programu, ki lahko prebere Jupyter notebook datoteke. V primeru, da se grafi analize ne pojavijo naloži tudi datoteko Podatki.csv in zaženi analiza.ipynb. 
